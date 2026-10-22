@@ -1,0 +1,17 @@
+{
+  "name": "quicknode",
+  "owner": {
+    "name": "Quicknode",
+    "url": "https://www.quicknode.com"
+  },
+  "metadata": {
+    "description": "Quicknode plugins for Cursor"
+  },
+  "plugins": [
+    {
+      "name": "earn",
+      "source": "./",
+      "description": "Quicknode Earn: USDC yield strategies across Morpho vaults on 7 EVM chains"
+    }
+  ]
+}

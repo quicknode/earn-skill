@@ -1,0 +1,12 @@
+{
+  "name": "earn",
+  "version": "1.15.0",
+  "description": "Drive the Quicknode Earn API: browse and rank Morpho USDC vaults, create and fund strategies, read performance and rebalance history, and build SIWE-signed writes and deposit/withdraw calldata.",
+  "author": {
+    "name": "Quicknode",
+    "url": "https://www.quicknode.com"
+  },
+  "homepage": "https://earn.quicknode.com",
+  "repository": "https://github.com/quicknode/earn-skill",
+  "keywords": ["quicknode", "earn", "usdc", "yield", "morpho", "defi", "cctp"]
+}

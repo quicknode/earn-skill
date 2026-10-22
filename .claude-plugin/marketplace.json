@@ -1,0 +1,22 @@
+{
+  "name": "quicknode",
+  "description": "Quicknode plugins for Claude Code",
+  "owner": {
+    "name": "Quicknode",
+    "url": "https://www.quicknode.com"
+  },
+  "plugins": [
+    {
+      "name": "earn",
+      "source": "./",
+      "description": "Quicknode Earn: USDC yield strategies across Morpho vaults on 7 EVM chains",
+      "homepage": "https://earn.quicknode.com",
+      "relevance": {
+        "topic": "Quicknode Earn",
+        "signals": {
+          "hosts": ["earn-api.quicknode.dev", "earn.quicknode.com"]
+        }
+      }
+    }
+  ]
+}

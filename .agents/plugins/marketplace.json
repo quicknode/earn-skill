@@ -1,0 +1,20 @@
+{
+  "name": "quicknode",
+  "interface": {
+    "displayName": "Quicknode"
+  },
+  "plugins": [
+    {
+      "name": "earn",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

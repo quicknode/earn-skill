@@ -1,0 +1,5 @@
+{
+  "name": "earn",
+  "version": "1.15.0",
+  "description": "Quicknode Earn API skill: Morpho USDC vault rankings, strategy lifecycle, performance, SIWE-signed writes, and deposit/withdraw calldata."
+}

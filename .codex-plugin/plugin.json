@@ -1,0 +1,16 @@
+{
+  "name": "earn",
+  "version": "1.15.0",
+  "description": "Drive the Quicknode Earn API: browse and rank Morpho USDC vaults, create and fund strategies, read performance and rebalance history, and build SIWE-signed writes and deposit/withdraw calldata.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Quicknode Earn",
+    "shortDescription": "USDC yield strategies across Morpho vaults on 7 EVM chains",
+    "longDescription": "Teaches Codex the Quicknode Earn public API: vault rankings, strategy creation and funding, performance and rebalance history, SIWE-signed writes, and deposit/withdraw calldata. The API never holds keys or broadcasts transactions; your wallet signs.",
+    "developerName": "Quicknode",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://earn.quicknode.com",
+    "defaultPrompt": "How much did my Earn strategies earn in the last 30 days?"
+  }
+}
